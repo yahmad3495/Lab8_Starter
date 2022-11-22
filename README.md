@@ -1,4 +1,5 @@
 # Lab 8 - Starter
+Younus Ahmad
 
 Q1.) Option 1 is correct as it will ensure that any code that is pushed will have to go through some quality checks so that the code is working
 before moving onto the next part of development. Manually running tests would work, but would be inefficient and a perfect task for automation libraries
